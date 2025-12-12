@@ -1,6 +1,6 @@
 Name:		matrix-commander
 Version:	8.0.5
-Release:	1
+Release:	2
 Summary:	A simple command-line Matrix client
 URL:		https://github.com/8go/matrix-commander
 License:	GPLv3
